@@ -1,0 +1,9 @@
+/vendor
+/app/cache
+/composer.lock
+/composer.phar
+/uploads/posts*
+# IDE specific files
+.idea/
+.vscode/
+/.env
